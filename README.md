@@ -7,4 +7,5 @@
 - [Search Insert Position](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/leetcode/array/SearchInsertPosition.java) in [Leetcode](https://leetcode.com/problems/search-insert-position/)
 - [Sum of Array Elements](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/gfg/array/SumOfArrayElements.java) in [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/sum-of-array-elements2502/1/?category[]=Arrays&category[]=Arrays&problemStatus=solved&page=1&query=category[]ArraysproblemStatussolvedpage1category[]Arrays#)
 - [Between Two Sets](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackertrank/array/BetweenTwoSets.java) in [HackerRank](https://www.hackerrank.com/challenges/between-two-sets/problem)
+- [Breaking the Records](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackertrank/array/BreakingTheRecords.java) in [HackerRank](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)
 - [Maximum Subarray]() in [LeetCode](https://leetcode.com/problems/maximum-subarray/)
