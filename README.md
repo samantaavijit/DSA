@@ -10,4 +10,5 @@
 - [Breaking the Records](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackertrank/array/BreakingTheRecords.java) in [HackerRank](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)
 - [Subarray Division](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackertrank/array/SubarrayDivision.java) in [HackerRank](https://www.hackerrank.com/challenges/the-birthday-bar/problem)
 - [Divisible Sum Pairs](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackertrank/array/DivisibleSumPairs.java) in [HackerRank](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)
+- [Migratory Birds](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackertrank/array/MigratoryBirds.java) in [HackerRank](https://www.hackerrank.com/challenges/migratory-birds/problem)
 - [Maximum Subarray]() in [LeetCode](https://leetcode.com/problems/maximum-subarray/)
