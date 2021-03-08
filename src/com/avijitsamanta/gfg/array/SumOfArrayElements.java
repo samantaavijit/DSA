@@ -9,10 +9,16 @@ package com.avijitsamanta.gfg.array;
  */
 public class SumOfArrayElements {
     public static int sumElement(int[] arr, int n) {
-        n = 0;
-        for (int val : arr)
-            n += val;
-        return n;
+        int i = 0, j = n - 1, sum = 0;
+
+        while (i < j) {
+            sum += arr[i] + arr[j];
+            i++;
+            j--;
+        }
+        if ((n & 1) == 1)
+            sum += arr[j];
+        return sum;
     }
 
     public static void main(String[] args) {
