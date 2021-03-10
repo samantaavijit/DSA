@@ -1,5 +1,11 @@
 package com.avijitsamanta.gfg.array;
 
+/**
+ * @author Avijit Samanta
+ *
+ * Question link
+ * https://practice.geeksforgeeks.org/problems/balanced-array07200720/1/?category[]=Arrays&category[]=Arrays&page=1&query=category[]Arrayspage1category[]Arrays
+ */
 public class BalancedArray {
     private static long minValueToBalance(long[] a, int n) {
         long lSum = 0, rSum = 0;
