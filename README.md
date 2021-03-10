@@ -1,4 +1,4 @@
-# DSA Questions form GFG , Leetcode and HackerRank
+# DSA Questions from GFG , Leetcode and HackerRank
 
 ## Array
 - [Two Sum](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/leetcode/array/TwoSum.java) in [LeetCode](https://leetcode.com/problems/two-sum/)
@@ -15,4 +15,5 @@
 - [Bill Division](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackertrank/array/BillDivision.java) in [HackerRank](https://www.hackerrank.com/challenges/bon-appetit/problem)
 - [Plus One](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/leetcode/array/PlusOne.java) in [LeetCode](https://leetcode.com/problems/plus-one/)
 - [Rotate Array](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/gfg/array/RotateArray.java) in [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements/0/?category[]=Arrays&category[]=Arrays&page=1&query=category[]Arrayspage1category[]Arrays)
+- [Balanced Array](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/gfg/array/BalancedArray.java) in [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/balanced-array07200720/1/?category[]=Arrays&category[]=Arrays&page=1&query=category[]Arrayspage1category[]Arrays)
 - [Maximum Subarray]() in [LeetCode](https://leetcode.com/problems/maximum-subarray/)
