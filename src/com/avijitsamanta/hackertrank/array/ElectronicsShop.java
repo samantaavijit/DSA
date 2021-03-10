@@ -9,11 +9,11 @@ package com.avijitsamanta.hackertrank.array;
 public class ElectronicsShop {
     private static int getMoneySpent(int[] keyboards, int[] drives, int b) {
         int max = -1;
-        for(int i = 0, j = 0; i < keyboards.length; i++){
-            for(; j < drives.length; j++){
-                if(keyboards[i]+drives[j] > b) break;
-                if(keyboards[i]+drives[j] > max)
-                    max = keyboards[i]+drives[j];
+        for (int keyboard : keyboards) {
+            for (int drive : drives) {
+                if (keyboard + drive <= b) {
+                    max = Math.max(max, keyboard + drive);
+                }
             }
         }
         return max;
