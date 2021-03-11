@@ -1,6 +1,4 @@
-package com.avijitsamanta.hackertrank.array;
-
-import java.util.HashMap;
+package com.avijitsamanta.hackerrank.array;
 
 /**
  * @author Avijit Samanta
