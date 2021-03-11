@@ -18,4 +18,7 @@
 - [Balanced Array](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/gfg/array/BalancedArray.java) in [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/balanced-array07200720/1/?category[]=Arrays&category[]=Arrays&page=1&query=category[]Arrayspage1category[]Arrays)
 - [Electronics Shop](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackertrank/array/ElectronicsShop.java) in [HackerRank](https://www.hackerrank.com/challenges/electronics-shop/problem)
 - [Cats and a Mouse](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackertrank/array/CatsAndAMouse.java) in [HackerRank](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)
+- [Picking Numbers](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackertrank/array/PickingNumbers.java) in [HackerRank](https://www.hackerrank.com/challenges/picking-numbers/problem)
+- [The Hurdle Race](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackertrank/array/TheHurdleRace.java) in [HackerRank](https://www.hackerrank.com/challenges/the-hurdle-race/problem)
+- [Designer PDF Viewer](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackertrank/array/DesignerPDFViewer.java) in [HackerRank](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)
 - [Maximum Subarray]() in [LeetCode](https://leetcode.com/problems/maximum-subarray/)
