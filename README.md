@@ -24,3 +24,6 @@
 - [Utopian Tree](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/array/UtopianTree.java) in [HackerRank](https://www.hackerrank.com/challenges/utopian-tree/problem)
 - [Angry Professor](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/array/AngryProfessor.java) in [HackerRank](https://www.hackerrank.com/challenges/angry-professor/problem)
 - [Maximum Subarray]() in [LeetCode](https://leetcode.com/problems/maximum-subarray/)
+
+## Others
+- [Find Digits](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackertrank/others/FindDigits.java) in [HackerRank](https://www.hackerrank.com/challenges/find-digits/problem)
