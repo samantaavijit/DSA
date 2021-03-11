@@ -20,6 +20,7 @@
 - [The Hurdle Race](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/array/TheHurdleRace.java) in [HackerRank](https://www.hackerrank.com/challenges/the-hurdle-race/problem)
 - [Designer PDF Viewer](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/array/DesignerPDFViewer.java) in [HackerRank](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)
 - [Angry Professor](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/array/AngryProfessor.java) in [HackerRank](https://www.hackerrank.com/challenges/angry-professor/problem)
+- [Equalize the Array](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/array/EqualizeTheArray.java) in {hackerRank](https://www.hackerrank.com/challenges/equality-in-a-array/problem)
 - [Maximum Subarray]() in [LeetCode](https://leetcode.com/problems/maximum-subarray/)
 
 ## Others
