@@ -21,4 +21,6 @@
 - [Picking Numbers](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackertrank/array/PickingNumbers.java) in [HackerRank](https://www.hackerrank.com/challenges/picking-numbers/problem)
 - [The Hurdle Race](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackertrank/array/TheHurdleRace.java) in [HackerRank](https://www.hackerrank.com/challenges/the-hurdle-race/problem)
 - [Designer PDF Viewer](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackertrank/array/DesignerPDFViewer.java) in [HackerRank](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)
+- [Utopian Tree](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackertrank/array/UtopianTree.java) in [HackerRank](https://www.hackerrank.com/challenges/utopian-tree/problem)
+- [Angry Professor](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackertrank/array/AngryProfessor.java) in [HackerRank](https://www.hackerrank.com/challenges/angry-professor/problem)
 - [Maximum Subarray]() in [LeetCode](https://leetcode.com/problems/maximum-subarray/)
