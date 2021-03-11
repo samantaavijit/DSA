@@ -9,7 +9,7 @@ import java.util.Arrays;
  * https://www.hackerrank.com/challenges/picking-numbers/problem
  */
 public class PickingNumbers {
-    public static int pickingNumbers(int[] a) {
+    private static int pickingNumbers(int[] a) {
         Arrays.sort(a);
         int c, max = -1;
         for (int i = 0; i < a.length; i++) {
