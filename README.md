@@ -28,3 +28,4 @@
 - [Day of the Programmer](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/others/DayOfTheProgrammer.java) in [HackerRank](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)
 - [Utopian Tree](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/others/UtopianTree.java) in [HackerRank](https://www.hackerrank.com/challenges/utopian-tree/problem)
 - [Find Digits](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackertrank/others/FindDigits.java) in [HackerRank](https://www.hackerrank.com/challenges/find-digits/problem)
+- [Beautiful Days at the Movies](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/others/BeautifulDaysAtTheMovies.java) in [HackerRank](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)
