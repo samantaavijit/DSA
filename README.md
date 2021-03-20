@@ -21,8 +21,10 @@
 - [Designer PDF Viewer](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/array/DesignerPDFViewer.java) in [HackerRank](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)
 - [Angry Professor](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/array/AngryProfessor.java) in [HackerRank](https://www.hackerrank.com/challenges/angry-professor/problem)
 - [Equalize the Array](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/array/EqualizeTheArray.java) in [hackerRank](https://www.hackerrank.com/challenges/equality-in-a-array/problem)
-- [Circular Array Rotation]() in [HackerRank](https://www.hackerrank.com/challenges/circular-array-rotation/problem)
-- [Maximum Subarray](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/array/CircularArrayRotation.java) in [LeetCode](https://leetcode.com/problems/maximum-subarray/)
+- [Circular Array Rotation](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/array/CircularArrayRotation.java) in [HackerRank](https://www.hackerrank.com/challenges/circular-array-rotation/problem)
+- [Jumping on the Clouds](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/array/JumpingOnTheClouds.java) in [HackerRank](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem)
+- [Merge Sorted Array](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/leetcode/array/MergeSortedArray.java) in [LeetCode](https://leetcode.com/problems/merge-sorted-array/)
+- [Maximum Subarray]() in [LeetCode](https://leetcode.com/problems/maximum-subarray/)
 
 ## Others
 - [Cats and a Mouse](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/others/CatsAndAMouse.java) in [HackerRank](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)
