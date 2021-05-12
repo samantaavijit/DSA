@@ -16,6 +16,6 @@ public class CamelCase {
     }
 
     public static void main(String[] args) {
-        System.out.println(camelcase("saveChangesInTheZditor"));
+        System.out.println(camelcase("saveChangesInTheEditor"));
     }
 }
