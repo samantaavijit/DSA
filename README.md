@@ -24,6 +24,7 @@
 - [Circular Array Rotation](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/array/CircularArrayRotation.java) in [HackerRank](https://www.hackerrank.com/challenges/circular-array-rotation/problem)
 - [Jumping on the Clouds](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/array/JumpingOnTheClouds.java) in [HackerRank](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem)
 - [Merge Sorted Array](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/leetcode/array/MergeSortedArray.java) in [LeetCode](https://leetcode.com/problems/merge-sorted-array/)
+- [Sequence Equation](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/array/SequenceEquation.java) in [HackerRank](https://www.hackerrank.com/challenges/permutation-equation/problem)
 - [Maximum Subarray]() in [LeetCode](https://leetcode.com/problems/maximum-subarray/)
 
 ## Others
