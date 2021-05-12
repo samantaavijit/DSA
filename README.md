@@ -29,6 +29,7 @@
 
 ## String
 - [Append and Delete](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/string/AppendAndDelete.java) in [HackerRank](https://www.hackerrank.com/challenges/append-and-delete/problem)
+- [CamelCase](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/string/CamelCase.java) in [hackerRank](https://www.hackerrank.com/challenges/camelcase/problem)
 
 ## Others
 - [Cats and a Mouse](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/others/CatsAndAMouse.java) in [HackerRank](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)
