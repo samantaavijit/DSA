@@ -1,4 +1,4 @@
-package com.avijitsamanta.hackerrank.others;
+package com.avijitsamanta.hackerrank.string;
 
 /**
  * @author Avijit Samanta
