@@ -8,41 +8,17 @@ package com.avijitsamanta.hackerrank.string;
  */
 public class AppendAndDelete {
     private static String appendAndDelete(String s, String t, int k) {
-//        if (s.equals(t)) return "Yes";
-//        StringBuilder str = new StringBuilder();
-//        int i = 0;
-//        for (; i < (Math.min(s.length(), t.length())); i++) {
-//            if (s.charAt(i) == t.charAt(i)) str.append(s.charAt(i));
-//            else break;
-//        }
-//        int c = s.length() - str.length();
-//        if (str.toString().equals(t) && c <= k) return "Yes";
-//        else {
-//            while (i < t.length() && c <= k) {
-//                str.append(t.charAt(i));
-//                i++;
-//                c++;
-//                if (str.toString().equals(t)) return "Yes";
-//            }
-//            return "No";
-//        }
-
-        if (s.equals(t))
-            return (k >= s.length() * 2 || k % 2 == 0) ? "Yes" : "No";
-
-        int commonlength = 0;
-
+        int commonLength = 0;
         for (int i = 0; i < Math.min(s.length(), t.length()); i++) {
             if (t.charAt(i) != s.charAt(i))
                 break;
-            commonlength++;
+            commonLength++;
         }
-
-        int cs = s.length() - commonlength;
-        int ct = t.length() - commonlength;
-        int tot = cs + ct;
-
-        return ((tot == k) || (tot < k && (tot - k) % 2 == 0) || (tot + (2 * commonlength) <= k)) ? "Yes" : "No";
+        int minOperationRequired = s.length() + t.length() - 2 * commonLength;
+        if (k < minOperationRequired) return "No";
+        if (k >= s.length() + t.length()) return "Yes";
+        if ((k - minOperationRequired) % 2 == 0) return "Yes";
+        else return "No";
     }
 
     public static void main(String[] args) {
