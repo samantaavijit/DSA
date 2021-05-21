@@ -38,4 +38,5 @@
 - [Find Digits](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackertrank/others/FindDigits.java) in [HackerRank](https://www.hackerrank.com/challenges/find-digits/problem)
 - [Beautiful Days at the Movies](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/others/BeautifulDaysAtTheMovies.java) in [HackerRank](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)
 - [Save the Prisoner](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/others/SaveThePrisoner.java) in [HackerRank](https://www.hackerrank.com/challenges/save-the-prisoner/problem)
+- [Extra Long Factorials](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/others/ExtraLongFactorials.java) in [HackerRank](https://www.hackerrank.com/challenges/extra-long-factorials/problem)
 
