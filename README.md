@@ -26,11 +26,13 @@
 - [Merge Sorted Array](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/leetcode/array/MergeSortedArray.java) in [LeetCode](https://leetcode.com/problems/merge-sorted-array/)
 - [Sequence Equation](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/array/SequenceEquation.java) in [HackerRank](https://www.hackerrank.com/challenges/permutation-equation/problem)
 - [2D Arrays](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/array/TwoDArrays.java) in [HackerRank](https://www.hackerrank.com/challenges/30-2d-arrays/problem)
+- [Sorting](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/array/Sorting.java) in [HackerRank](https://www.hackerrank.com/challenges/30-sorting/problem)
 - [Maximum Subarray]() in [LeetCode](https://leetcode.com/problems/maximum-subarray/)
 
 ## String
 - [Append and Delete](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/string/AppendAndDelete.java) in [HackerRank](https://www.hackerrank.com/challenges/append-and-delete/problem)
 - [CamelCase](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/string/CamelCase.java) in [hackerRank](https://www.hackerrank.com/challenges/camelcase/problem)
+- [Queues and Stacks](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/string/QueuesAndStacks.java) in [HackerRank](https://www.hackerrank.com/challenges/30-queues-stacks/problem)
 
 ## Others
 - [Cats and a Mouse](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/others/CatsAndAMouse.java) in [HackerRank](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)
