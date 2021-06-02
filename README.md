@@ -43,4 +43,5 @@
 - [Save the Prisoner](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/others/SaveThePrisoner.java) in [HackerRank](https://www.hackerrank.com/challenges/save-the-prisoner/problem)
 - [Extra Long Factorials](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/others/ExtraLongFactorials.java) in [HackerRank](https://www.hackerrank.com/challenges/extra-long-factorials/problem)
 - [Binary Search Trees](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/others/HeightOfABinarySearchTrees.java) in [HackerRank](https://www.hackerrank.com/challenges/30-binary-search-trees/problem)
+- [Remove Duplicate Nodes from Linked List](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/others/RemoveDuplicateNodes.java) in [HackerRank](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem)
 - [BST Level-Order Traversal]() in [HackerRank](https://www.hackerrank.com/challenges/30-binary-trees/problem)
