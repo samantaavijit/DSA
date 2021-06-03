@@ -27,6 +27,7 @@
 - [Sequence Equation](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/array/SequenceEquation.java) in [HackerRank](https://www.hackerrank.com/challenges/permutation-equation/problem)
 - [2D Arrays](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/array/TwoDArrays.java) in [HackerRank](https://www.hackerrank.com/challenges/30-2d-arrays/problem)
 - [Sorting](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/array/Sorting.java) in [HackerRank](https://www.hackerrank.com/challenges/30-sorting/problem)
+- [N-Queen Problem](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/gfg/array/NQueen.java) in [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/n-queen-problem0315/1)
 - [Maximum Subarray]() in [LeetCode](https://leetcode.com/problems/maximum-subarray/)
 
 ## String
