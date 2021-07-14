@@ -1,5 +1,9 @@
 # DSA Questions from GFG , LeetCode and HackerRank
 
+## Bit Manipulation
+- [Find the element that appears once](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/gfg/bitmanipulation/OnceOccursNumber.java) in [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/element-appearing-once2552/1#)
+
+
 ## Array
 - [Two Sum](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/leetcode/array/TwoSum.java) in [LeetCode](https://leetcode.com/problems/two-sum/)
 - [Remove Duplicates from Sorted Array](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/leetcode/array/RemoveDuplicatesFromSortedArray.java) in [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
