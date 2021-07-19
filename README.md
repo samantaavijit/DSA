@@ -33,7 +33,7 @@
 - [Sorting](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/array/Sorting.java) in [HackerRank](https://www.hackerrank.com/challenges/30-sorting/problem)
 - [N-Queen Problem](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/gfg/array/NQueen.java) in [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/n-queen-problem0315/1)
 - [Minimum Distances](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/array/MinimumDistances.java) in [HackerRank](https://www.hackerrank.com/challenges/minimum-distances/problem)
-- [Beautiful Triplets]() in [HackerRank](https://www.hackerrank.com/challenges/beautiful-triplets/problem)
+- [Beautiful Triplets](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/array/BeautifulTriplets.java) in [HackerRank](https://www.hackerrank.com/challenges/beautiful-triplets/problem)
 - [Maximum Subarray]() in [LeetCode](https://leetcode.com/problems/maximum-subarray/)
 
 ## String
@@ -52,4 +52,5 @@
 - [Binary Search Trees](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/others/HeightOfABinarySearchTrees.java) in [HackerRank](https://www.hackerrank.com/challenges/30-binary-search-trees/problem)
 - [Remove Duplicate Nodes from Linked List](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/others/RemoveDuplicateNodes.java) in [HackerRank](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem)
 - [Library Fine](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/others/LibraryFine.java) in [HackerRank](https://www.hackerrank.com/challenges/library-fine/problem)
+- [Drawing Book]() in [HackerRank](https://www.hackerrank.com/challenges/drawing-book/problem)
 - [BST Level-Order Traversal]() in [HackerRank](https://www.hackerrank.com/challenges/30-binary-trees/problem)
