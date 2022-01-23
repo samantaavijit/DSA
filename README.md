@@ -34,6 +34,7 @@
 - [N-Queen Problem](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/gfg/array/NQueen.java) in [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/n-queen-problem0315/1)
 - [Minimum Distances](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/array/MinimumDistances.java) in [HackerRank](https://www.hackerrank.com/challenges/minimum-distances/problem)
 - [Beautiful Triplets](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/array/BeautifulTriplets.java) in [HackerRank](https://www.hackerrank.com/challenges/beautiful-triplets/problem)
+- [Max Consecutive Ones](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/leetcode/array/MaxConsecutiveOnes.java) in [LeetCode](https://leetcode.com/explore/featured/card/fun-with-arrays/521/introduction/3238/)
 - [Maximum Subarray]() in [LeetCode](https://leetcode.com/problems/maximum-subarray/)
 
 ## String
