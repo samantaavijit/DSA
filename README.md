@@ -53,5 +53,5 @@
 - [Binary Search Trees](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/others/HeightOfABinarySearchTrees.java) in [HackerRank](https://www.hackerrank.com/challenges/30-binary-search-trees/problem)
 - [Remove Duplicate Nodes from Linked List](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/others/RemoveDuplicateNodes.java) in [HackerRank](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem)
 - [Library Fine](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/others/LibraryFine.java) in [HackerRank](https://www.hackerrank.com/challenges/library-fine/problem)
-- [Drawing Book]() in [HackerRank](https://www.hackerrank.com/challenges/drawing-book/problem)
+- [Drawing Book](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/others/DrawingBook.java) in [HackerRank](https://www.hackerrank.com/challenges/drawing-book/problem)
 - [BST Level-Order Traversal]() in [HackerRank](https://www.hackerrank.com/challenges/30-binary-trees/problem)
