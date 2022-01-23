@@ -40,6 +40,7 @@
 - [Append and Delete](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/string/AppendAndDelete.java) in [HackerRank](https://www.hackerrank.com/challenges/append-and-delete/problem)
 - [CamelCase](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/string/CamelCase.java) in [hackerRank](https://www.hackerrank.com/challenges/camelcase/problem)
 - [Queues and Stacks](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/string/QueuesAndStacks.java) in [HackerRank](https://www.hackerrank.com/challenges/30-queues-stacks/problem)
+- [Rearrange a string](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/gfg/string/RearrangeAString.java) in [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/rearrange-a-string4100/1)
 
 ## Others
 - [Cats and a Mouse](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/others/CatsAndAMouse.java) in [HackerRank](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)
