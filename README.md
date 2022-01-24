@@ -36,7 +36,7 @@
 - [Beautiful Triplets](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/array/BeautifulTriplets.java) in [HackerRank](https://www.hackerrank.com/challenges/beautiful-triplets/problem)
 - [Max Consecutive Ones](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/leetcode/array/MaxConsecutiveOnes.java) in [LeetCode](https://leetcode.com/explore/featured/card/fun-with-arrays/521/introduction/3238/)
 - [Find Numbers With Even Number of Digits](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/leetcode/array/FindNumbersWithEvenNumberOfDigits.java) in [LeetCode](https://leetcode.com/explore/learn/card/fun-with-arrays/521/introduction/3237/)
-- [Next Permutation]() in [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/next-permutation5226/1)
+- [Next Permutation](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/gfg/array/NextPermutation.java) in [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/next-permutation5226/1)
 - [Maximum Subarray]() in [LeetCode](https://leetcode.com/problems/maximum-subarray/)
 
 ## String
