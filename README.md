@@ -34,12 +34,16 @@
 - [N-Queen Problem](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/gfg/array/NQueen.java) in [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/n-queen-problem0315/1)
 - [Minimum Distances](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/array/MinimumDistances.java) in [HackerRank](https://www.hackerrank.com/challenges/minimum-distances/problem)
 - [Beautiful Triplets](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/array/BeautifulTriplets.java) in [HackerRank](https://www.hackerrank.com/challenges/beautiful-triplets/problem)
+- [Max Consecutive Ones](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/leetcode/array/MaxConsecutiveOnes.java) in [LeetCode](https://leetcode.com/explore/featured/card/fun-with-arrays/521/introduction/3238/)
+- [Find Numbers With Even Number of Digits](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/leetcode/array/FindNumbersWithEvenNumberOfDigits.java) in [LeetCode](https://leetcode.com/explore/learn/card/fun-with-arrays/521/introduction/3237/)
+- [Next Permutation]() in [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/next-permutation5226/1)
 - [Maximum Subarray]() in [LeetCode](https://leetcode.com/problems/maximum-subarray/)
 
 ## String
 - [Append and Delete](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/string/AppendAndDelete.java) in [HackerRank](https://www.hackerrank.com/challenges/append-and-delete/problem)
-- [CamelCase](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/string/CamelCase.java) in [hackerRank](https://www.hackerrank.com/challenges/camelcase/problem)
+- [CamelCase](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/string/CamelCase.java) in [HackerRank](https://www.hackerrank.com/challenges/camelcase/problem)
 - [Queues and Stacks](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/string/QueuesAndStacks.java) in [HackerRank](https://www.hackerrank.com/challenges/30-queues-stacks/problem)
+- [Rearrange a string](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/gfg/string/RearrangeAString.java) in [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/rearrange-a-string4100/1)
 
 ## Others
 - [Cats and a Mouse](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/others/CatsAndAMouse.java) in [HackerRank](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)
@@ -52,5 +56,5 @@
 - [Binary Search Trees](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/others/HeightOfABinarySearchTrees.java) in [HackerRank](https://www.hackerrank.com/challenges/30-binary-search-trees/problem)
 - [Remove Duplicate Nodes from Linked List](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/others/RemoveDuplicateNodes.java) in [HackerRank](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem)
 - [Library Fine](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/others/LibraryFine.java) in [HackerRank](https://www.hackerrank.com/challenges/library-fine/problem)
-- [Drawing Book]() in [HackerRank](https://www.hackerrank.com/challenges/drawing-book/problem)
+- [Drawing Book](https://github.com/samantaavijit/DSA/blob/master/src/com/avijitsamanta/hackerrank/others/DrawingBook.java) in [HackerRank](https://www.hackerrank.com/challenges/drawing-book/problem)
 - [BST Level-Order Traversal]() in [HackerRank](https://www.hackerrank.com/challenges/30-binary-trees/problem)
